@@ -2,7 +2,7 @@ package com.itcompiler.apirest.apirest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+// este es un comentario 
 @SpringBootApplication
 
 public class ApirestApplication {
